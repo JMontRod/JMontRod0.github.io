@@ -3,17 +3,18 @@ layout: article
 title: EasyPeasyCTF
 mode: immersive
 tags: TryHackMe
-header:
-  theme: dark
+aside:
+  toc: true
 article_header:
   type: cover
   image:
-    src: /thumbnail.jpg
+    src: /EasyPeasy.jpg
 ---
 
 Esta es una máquina de tryHackMe
-
+<!--more-->
 ---
+
 
 # Puertos
 Para sacar los puertos he utilizado nmap con el siguiente comando
