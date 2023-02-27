@@ -1,4 +1,5 @@
 ---
+layout: article
 title: Pruebecita fachera
 tags: TeXt
 article_header:
